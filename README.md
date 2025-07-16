@@ -66,7 +66,13 @@ The dashboard enables:
 
 ## 📂 Repository Structure
 
-![Repository Structure](images/wireframe_image.png)
+├── public/
+├── src/
+│ └── components/
+├── images/
+│ └── wireframe_image.png
+├── SMART_HOME_DASHBOARD_PRD.md
+└── README.md
 
 
 ---
