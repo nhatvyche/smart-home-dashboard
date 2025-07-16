@@ -1,12 +1,9 @@
 # Smart Home Product Analytics Dashboard
+![Deployed](https://img.shields.io/badge/deployed-Vercel-blue)
+![Built with](https://img.shields.io/badge/built%20with-React.js-61DAFB)
+![Repo Size](https://img.shields.io/github/repo-size/nhatvyche/smart-home-dashboard)
+![Last Commit](https://img.shields.io/github/last-commit/nhatvyche/smart-home-dashboard)
 
-![Vercel](https://img.shields.io/badge/deployed-Vercel-blue)
-![React](https://img.shields.io/badge/built%20with-React.js-61DAFB)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/nhatvyche/smart-home-dashboard)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/nhatvyche/smart-home-dashboard)
-
-
-# Smart Home Product Analytics Dashboard
 
 A lightweight internal dashboard designed to help Product Managers (PMs), Operations (Ops) teams, and Executives monitor device pairing success, automation adoption, customer sentiment, and support load—empowering faster, data-backed decisions without manual reports or fragmented tools.
 
