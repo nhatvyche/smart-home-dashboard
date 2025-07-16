@@ -1,4 +1,4 @@
-# Smart Home Product Analytics Dashboard – PRD
+<img width="2236" height="896" alt="image" src="https://github.com/user-attachments/assets/5c2c0b01-501d-4927-9a64-39168b67615e" /># Smart Home Product Analytics Dashboard – PRD
 
 ## 1. Project Purpose & Insights
 
@@ -60,7 +60,7 @@ A lightweight internal dashboard enabling PM, Ops, and Executives to monitor pai
 
 ## 6. UI Wireframe
 
-![Dashboard Wireframe](images/dashboard_overview.png)
+![Dashboard Wireframe](images/wireframe_image.png)
 
 _This single dashboard wireframe visualizes:_
 - KPI widgets for NPS, CSAT, and Active Devices.
