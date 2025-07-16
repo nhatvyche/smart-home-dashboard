@@ -95,6 +95,7 @@ _This single dashboard wireframe visualizes:_
     "CSAT": 4.3
   }
 ]
+```
 This JSON schema serves as the backend data structure feeding the dashboard charts.
 
 9. Solution Approach
@@ -133,7 +134,5 @@ Executives gain a real-time, high-level summary of product health.
 
 Additionally, this project demonstrates the potential for AI-assisted product development by enabling non-technical professionals to deliver functional outcomes efficiently.
 
-yaml
-Copy
-Edit
+
 
