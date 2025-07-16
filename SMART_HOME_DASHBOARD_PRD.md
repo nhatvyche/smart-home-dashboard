@@ -1,4 +1,4 @@
-<img width="2236" height="896" alt="image" src="https://github.com/user-attachments/assets/5c2c0b01-501d-4927-9a64-39168b67615e" /># Smart Home Product Analytics Dashboard – PRD
+# Smart Home Product Analytics Dashboard – PRD
 
 ## 1. Project Purpose & Insights
 
