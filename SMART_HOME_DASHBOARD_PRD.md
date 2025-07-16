@@ -95,3 +95,43 @@ _This single dashboard wireframe visualizes:_
     "CSAT": 4.3
   }
 ]
+
+---
+
+## 9. Solution Approach
+
+This project was built using an AI-augmented development process:
+
+- **Problem Framing:**  
+  Defined business goals, success metrics, and solution scope in this PRD.
+
+- **LLM-Assisted Development:**  
+  Used ChatGPT to:
+  - Scaffold React code and UI components.
+  - Configure version control and CI/CD pipelines via GitHub and Vercel.
+  - Draft product documentation and dashboard narrative.
+
+- **Focus:**  
+  Managed development from a product-first perspective, while utilizing LLM tools to execute technical steps without direct coding.
+
+---
+
+## 10. Live Demo & Repository
+
+- **🔗 Live Dashboard:**  
+  [View Dashboard on Vercel](https://vercel.com/nhatvyches-projects/smart-home-dashboard)
+
+- **🔗 Source Code:**  
+  [View GitHub Repository](https://github.com/nhatvyche/smart-home-dashboard)
+
+---
+
+## 11. Business Impact
+
+This dashboard consolidates product and operational insights into a single, accessible view—eliminating the need for manual reports and enabling faster, data-driven decisions. Benefits include:
+
+- Operational teams can proactively resolve pairing or support issues.
+- PMs can prioritize features using real adoption and sentiment data.
+- Executives gain a real-time, high-level summary of product health.
+
+Additionally, this project demonstrates the potential for AI-assisted product development by enabling non-technical professionals to deliver functional outcomes efficiently.
