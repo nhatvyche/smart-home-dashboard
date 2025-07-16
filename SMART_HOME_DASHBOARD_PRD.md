@@ -98,41 +98,37 @@ _This single dashboard wireframe visualizes:_
 ```
 This JSON schema serves as the backend data structure feeding the dashboard charts.
 
-9. Solution Approach
+## 9. Solution Approach
+
 This project was built using an AI-augmented development process:
 
-Problem Framing:
-Defined business goals, success metrics, and solution scope in this PRD.
+- **Problem Framing:**  
+  Defined business goals, success metrics, and solution scope in this PRD.
 
-LLM-Assisted Development:
-Used ChatGPT to:
+- **LLM-Assisted Development:**  
+  Used ChatGPT to:
+  - Scaffold React code and UI components.
+  - Configure version control and CI/CD pipelines via GitHub and Vercel.
+  - Draft product documentation and dashboard narrative.
 
-Scaffold React code and UI components.
+- **Focus:**  
+  Managed development from a product-first perspective, while utilizing LLM tools to execute technical steps without direct coding.
 
-Configure version control and CI/CD pipelines via GitHub and Vercel.
+---
 
-Draft product documentation and dashboard narrative.
+## 10. Live Demo & Repository
 
-Focus:
-Managed development from a product-first perspective, while utilizing LLM tools to execute technical steps without direct coding.
+- **🔗 [View Dashboard on Vercel](https://vercel.com/nhatvyches-projects/smart-home-dashboard)**
+- **🔗 [View GitHub Repository](https://github.com/nhatvyche/smart-home-dashboard)**
 
-10. Live Demo & Repository
-🔗 Live Dashboard:
-View Dashboard on Vercel
+---
 
-🔗 Source Code:
-View GitHub Repository
+## 11. Business Impact
 
-11. Business Impact
-This dashboard consolidates product and operational insights into a single, accessible view—eliminating the need for manual reports and enabling faster, data-driven decisions. Benefits include:
+This dashboard consolidates product and operational insights into a single, accessible view—eliminating the need for manual reports and enabling faster, data-driven decisions.
 
-Operational teams can proactively resolve pairing or support issues.
-
-PMs can prioritize features using real adoption and sentiment data.
-
-Executives gain a real-time, high-level summary of product health.
-
-Additionally, this project demonstrates the potential for AI-assisted product development by enabling non-technical professionals to deliver functional outcomes efficiently.
-
-
-
+**Benefits include:**
+- Operational teams can proactively resolve pairing or support issues.
+- PMs can prioritize features using real adoption and sentiment data.
+- Executives gain a real-time, high-level summary of product health.
+- Demonstrates the potential for AI-assisted product development, enabling non-technical professionals to deliver functional outcomes efficiently.
